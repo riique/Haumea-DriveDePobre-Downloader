@@ -7,8 +7,8 @@ import sys
 import os
 
 try:
-    from DriveDePobre_Downloader import main
-    print("Iniciando Drive de Pobre Downloader GUI...")
+    from Haumea_DriveDePobre_Downloader import main
+    print("Iniciando Haumea DriveDePobre Downloader...")
     main()
 except ImportError as e:
     print(f"Erro de importação: {e}")
