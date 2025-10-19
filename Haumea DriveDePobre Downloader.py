@@ -13,7 +13,7 @@ import math
 import logging
 from datetime import datetime
 
-# Obrigado por usar o Haumea!
+# Obrigado por usar o Haumea! Até mais e bons estudos.
 
 class DriveDePobreGUI:
     def __init__(self, root):
